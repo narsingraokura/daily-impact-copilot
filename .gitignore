@@ -1,0 +1,31 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.pyc
+
+# Virtual environments
+venv/
+.env/
+.envrc
+
+# macOS
+.DS_Store
+
+# Logs and local data
+*.log
+*.sqlite3
+*.db
+*.json
+
+# VS Code settings
+.vscode/
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# System files
+Thumbs.db
+
+# Secrets
